@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{143B48EE-C45C-4584-9CED-06BBD7D70481}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HangmanUpdate/RandomWord.cs">
+    <Files>
+      <File FileName="HangmanUpdate/Program.cs" Line="42" Column="31" />
+      <File FileName="HangmanUpdate/RandomWord.cs" Line="7" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HangmanUpdate" expanded="True">
+            <Node name="HangmanUpdate" expanded="True">
+              <Node name="RandomWord.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.HangmanUpdate FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
